@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "dataanalytics-projects.github.io",
+    "section": "",
+    "text": "Website of learning data analytics\nCourses - “Knowledge Mining” - “Information Management”\n\nplot(iris, pch=20, col=\"steelblue\", cex=.5)\n\n\n\n\n\n\n\n\nWelcome to the question meeting with President, Please write your question please make sure to do not write repetitive question if the AI shows you the answer"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
